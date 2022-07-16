@@ -1,0 +1,5 @@
+Credentials cache: API:8B78BB2F-B098-4C87-8C20-AFA253CD4E1F
+        Principal: yoelhaim@1337.MA
+
+  Issued                Expires               Principal
+Sep 20 12:25:33 2021  Sep 20 22:25:21 2021  krbtgt/1337.MA@1337.MA
